@@ -16,3 +16,4 @@ mkdir client/assets/icons
 mv client/assets/icons/ CodeAlly.svg
 mv CodeAlly.svg client/assets/icons
 find
+mv CodeRoad.svg client/assets/icons/
