@@ -59,3 +59,5 @@ find toms-website/
 find
 find website-boilerplate
 clear
+echo find the course
+echo goodbye terminal
