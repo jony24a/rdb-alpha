@@ -13,3 +13,5 @@ __vsc_prompt_cmd_original
 ls --color=auto
 mkdir icons
 mkdir client/assets/icons
+mv client/assets/icons/ CodeAlly.svg
+mv CodeAlly.svg client/assets/icons
