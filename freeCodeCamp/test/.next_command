@@ -11,3 +11,5 @@ __vsc_prompt_cmd_original
 rmdir images/
 __vsc_prompt_cmd_original
 ls --color=auto
+mkdir icons
+mkdir client/assets/icons
