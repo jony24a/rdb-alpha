@@ -1,2 +1,5 @@
 clear
 mv images/footer.jpeg client/assets/images
+__vsc_prompt_cmd_original
+pwd
+find
