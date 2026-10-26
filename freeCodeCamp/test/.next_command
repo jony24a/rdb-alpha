@@ -32,3 +32,4 @@ rm --help
 -rm fonts/
 -r fonts/
 rm -r fonts/
+ls --color=auto
