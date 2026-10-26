@@ -61,3 +61,4 @@ find website-boilerplate
 clear
 echo find the course
 echo goodbye terminal
+exit
